@@ -1,5 +1,7 @@
 # Android_Developer_Training_Road_Map
 
+https://developers.google.com/training/android/#for-new-programmers
+
 
 https://github.com/sabdar18/Android-Basics-Nanodegree
 

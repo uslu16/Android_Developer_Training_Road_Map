@@ -42,3 +42,6 @@ https://pages.github.com/
 * https://solomongamid.github.io
 * https://tarek666.github.io (username aren't professional, but cool)
 * https://thamoui.github.io
+
+
+http://umihi.co/thumbnailed-portfolio-websites/
